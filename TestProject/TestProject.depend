@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1545075194 source:c:\users\dell\desktop\term 2\c\testproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545913680 
+
+1545860279 source:c:\users\dell\desktop\c\testproject\main.c
+	"Phonebook.h"
+	<stdio.h>
+
+1545861950 c:\users\dell\desktop\c\testproject\phonebook.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1545862656 source:c:\users\dr.eman\desktop\testproject\main.c
+	"Phonebook.h"
+
+1545901590 .h"
+
+1545866590 c:\users\dr.eman\desktop\testproject\phonebook.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1545901590 source:d:\semster-3\programming i\testproject\main.c
+	"Phonebook.h"
+
+1545901352 d:\semster-3\programming i\testproject\phonebook.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1545913680 source:d:\semster-3\programming i\testproject\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1547050606 source:/Users/ahmedtharwatwagdy/Documents/C workspace/TestProject/main.c
+	"Phonebook.h"
+	<stdio.h>
+
+1545901352 /Users/ahmedtharwatwagdy/Documents/C workspace/TestProject/Phonebook.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1545913680 source:/Users/ahmedtharwatwagdy/Documents/C workspace/TestProject/phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1547111551 source:/Users/ahmedtharwatwagdy/Documents/C/workspace/TestProject/main.c
+	"Phonebook.h"
+
+1547111911 /Users/ahmedtharwatwagdy/Documents/C/workspace/TestProject/Phonebook.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1547111911 source:/Users/ahmedtharwatwagdy/Documents/C/workspace/TestProject/phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1548537017 source:/Users/ahmedtharwatwagdy/Documents/C/workspace/PhoneBook "Term 3"/TestProject/main.c
+	"Phonebook.h"
+
+1547111911 /Users/ahmedtharwatwagdy/Documents/C/workspace/PhoneBook "Term 3"/TestProject/Phonebook.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1547111911 source:/Users/ahmedtharwatwagdy/Documents/C/workspace/PhoneBook "Term 3"/TestProject/phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1547111911 source:/Users/ahmedtharwatwagdy/Documents/C/workspace/PhoneBook /TestProject/phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1547111911 source:/Users/ahmedtharwatwagdy/Documents/C/workspace/PhoneBook/TestProject/phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
